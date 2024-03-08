@@ -1,4 +1,4 @@
-# ![konnectai Logo]([konnectai_logo.png](https://github.com/KonnectAi/.github/blob/main/profile/konnectai_logo.png))
+![KonnectAi Logo](https://github.com/KonnectAi/.github/assets/149692052/cf5bd44e-1943-4dd6-90f4-05139bc1400a)
 
 ## What is KonnectAi 
 
